@@ -17,4 +17,6 @@ Have fun!
 * Make the site responsive
 * More shapes...
 
+![Example image](https://i.imgur.com/PWelxHs.png)
+
 *- Jonas Bové*
