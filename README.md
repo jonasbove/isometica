@@ -1,5 +1,5 @@
 # Isometica
-Isometica is (or rather, will be) an isometric framework for HTML5 Canvas, inspired by @jdan's Isomer. <br><br>
+
 Currently, the only functional feature is creating cubes, using the `cube()` function. <br>
 It takes in the following arguments: <br>
 `origin_x` `origin_y` `origin_z` `x` `y` `z` <br>
