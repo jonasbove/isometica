@@ -13,7 +13,7 @@ Have fun!
 * Depth sort cube elements based on origin coordinates
 * Add color option
 * Make negative values function properly
-* Create UI for managing cubes
+* Create UI for managing shapes
 * Make the site responsive
 * More shapes...
 
